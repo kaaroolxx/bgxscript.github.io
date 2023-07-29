@@ -1,0 +1,464 @@
+Uri: https://bgxscript.xyz/
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\index.htm
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/%40sqs/polyfiller/1.2.2/legacy.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\@sqs\polyfiller\1.2.2\legacy.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/%40sqs/polyfiller/1.2.2/modern.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\@sqs\polyfiller\1.2.2\modern.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/edit-info-light%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/error-dark%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/play-button%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/trash-9-light%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/trash-9-red%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-bc070e7e07726bce41a00-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\cldr-resource-pack-bc070e7e07726bce41a00-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e00320a476a8814af38d4-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\cldr-resource-pack-e00320a476a8814af38d4-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/commerce-78043abf2c5eabd602cba-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\commerce-78043abf2c5eabd602cba-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/commerce-7ac05e22965c76a0453aa-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\commerce-7ac05e22965c76a0453aa-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/common-c7f07a66234b5236599b3-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\common-c7f07a66234b5236599b3-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/common-cc0a7469a3537e63759b3-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\common-cc0a7469a3537e63759b3-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/common-vendors-6a94dd7dc5b0f4c581f4a-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\common-vendors-6a94dd7dc5b0f4c581f4a-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/common-vendors-6f5bde26f95b0d6d5e036-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\common-vendors-6f5bde26f95b0d6d5e036-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-a30753685e88d3c1847ad-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\common-vendors-stable-a30753685e88d3c1847ad-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-98bddc81dc37f44faa7b2-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\extract-css-moment-js-vendor-98bddc81dc37f44faa7b2-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-827e3a48cdb1196aef368-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\extract-css-runtime-827e3a48cdb1196aef368-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-9f3b6c7a4878f0f9bb435-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\extract-css-runtime-9f3b6c7a4878f0f9bb435-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/performance-87be1ae4219a3a7a3d079-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\performance-87be1ae4219a3a7a3d079-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/scripts-compressed/performance-a094bcca5783e1ae16721-min.en-US.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\scripts-compressed\performance-a094bcca5783e1ae16721-min.en-US.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/assets.squarespace.com/universal/styles-compressed/commerce-42e904b2189a7c1684dd6-min.en-US.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets.squarespace.com\universal\styles-compressed\commerce-42e904b2189a7c1684dd6-min.en-US.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/animatecss/animate.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\animatecss\animate.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/bootstrap/css/bootstrap-grid.min.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/bootstrap/css/bootstrap-reboot.min.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/dropdown/css/style.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/mobirise/css/mbr-additional.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\mobirise\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/socicon/css/styles.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\css\styles.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/assets1/socicon/fonts/socicon-1.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\fonts\socicon-1.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets1/socicon/fonts/socicon-2.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\fonts\socicon-2.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets1/socicon/fonts/socicon-3.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\fonts\socicon-3.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets1/socicon/fonts/socicon-4.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\fonts\socicon-4.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets1/socicon/fonts/socicon-5.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\fonts\socicon-5.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets1/socicon/fonts/socicon.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\socicon\fonts\socicon.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/assets1/theme/css/style.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\assets1\theme\css\style.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/bgx-spoofer.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\bgx-spoofer.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/cart.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\cart.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/escapefromtarkov-cheats.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\escapefromtarkov-cheats.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/fortnite-cheats.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\fortnite-cheats.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/home.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\home.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/06e9823e-7a53-4bba-b62d-117a330db3eb/Screenshot%2b(13).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\06e9823e-7a53-4bba-b62d-117a330db3eb\Screenshot+(13).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/0d76c006-6e85-41ce-af99-1e97532ce77d/Discord%2bInvite-129-129.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\0d76c006-6e85-41ce-af99-1e97532ce77d\Discord+Invite-129-129.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/0d8e79ad-3d7a-4436-b0e6-abe337556430/CONFIG-15-15.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\0d8e79ad-3d7a-4436-b0e6-abe337556430\CONFIG-15-15.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/1593b141-8225-4529-addd-783e3bc31583/bbac8e509a45e46ec2c2586304297014.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\1593b141-8225-4529-addd-783e3bc31583\bbac8e509a45e46ec2c2586304297014.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/1921aeb3-56f4-413e-8433-25229d9f435a/PRODUCT%2bFORTNITE-45.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\1921aeb3-56f4-413e-8433-25229d9f435a\PRODUCT+FORTNITE-45.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/1a1f4db8-fc2a-4658-b58f-6ab346bf1820/Screenshot%2b(5)%2b-%2bCodasdsapy.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\1a1f4db8-fc2a-4658-b58f-6ab346bf1820\Screenshot+(5)+-+Codasdsapy.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/316b24a8-95b9-42a6-91bb-a401133aabd5/LOGO-2926f7.png?format=1500w
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\316b24a8-95b9-42a6-91bb-a401133aabd5\LOGO-2926f7.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/34ffaeea-ae5e-4bff-9288-bf3be59c94a8/Screenshot%2b(14).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\34ffaeea-ae5e-4bff-9288-bf3be59c94a8\Screenshot+(14).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/3647e364-c4e5-4c99-abb4-6f7b43f3a8eb/Valorant-68.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\3647e364-c4e5-4c99-abb4-6f7b43f3a8eb\Valorant-68.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/3b937813-67c6-4b25-b6d5-b04b435a0d22/VAL%2bLIFETIME.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\3b937813-67c6-4b25-b6d5-b04b435a0d22\VAL+LIFETIME.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/3f6a64d1-b8f5-4538-b94f-28c3ba25b92c/EFT-50.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\3f6a64d1-b8f5-4538-b94f-28c3ba25b92c\EFT-50.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/424761e4-383a-4034-9817-77f93ec039c9/VAL%2bHARDWARE-46.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\424761e4-383a-4034-9817-77f93ec039c9\VAL+HARDWARE-46.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/5501dd97-be94-47d2-81be-e7e71aefd482/VAL%2bLOGOS-41.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\5501dd97-be94-47d2-81be-e7e71aefd482\VAL+LOGOS-41.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/5d81d891-c514-45ea-b051-d313784f3bcb/EFT-77-77.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\5d81d891-c514-45ea-b051-d313784f3bcb\EFT-77-77.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/62eef892-cf4c-4e85-9938-738aecb48bfc/EFT-52.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\62eef892-cf4c-4e85-9938-738aecb48bfc\EFT-52.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/6610d441-7c03-4064-8f78-fcbbd839f35a/Escape-From-Tarkov.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\6610d441-7c03-4064-8f78-fcbbd839f35a\Escape-From-Tarkov.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/6642add9-8767-4b24-9f4c-4b76cdc8f38b/Valorant%2bProduct%2bImages-45.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\6642add9-8767-4b24-9f4c-4b76cdc8f38b\Valorant+Product+Images-45.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/70595261-d2b2-4490-91a5-f867479035a8/Crypto%2bLogos-02.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\70595261-d2b2-4490-91a5-f867479035a8\Crypto+Logos-02.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/783fd70c-03eb-4ba8-9220-de41a88a79f3/Rust.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\783fd70c-03eb-4ba8-9220-de41a88a79f3\Rust.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/78f8c91b-97dc-432f-b213-ceaaf4709c43/Screenshot%2b(12).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\78f8c91b-97dc-432f-b213-ceaaf4709c43\Screenshot+(12).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/79264528-f51e-4c69-91bd-0d789525073d/VAL%2bHARDWARE-47.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\79264528-f51e-4c69-91bd-0d789525073d\VAL+HARDWARE-47.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/7c3d32d7-53ff-41e0-8d20-0f1cc98e3127/PRODUCT%2bFORTNITE-46.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\7c3d32d7-53ff-41e0-8d20-0f1cc98e3127\PRODUCT+FORTNITE-46.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/8276f4d2-1d32-4e9b-ae00-3cf83d581c75/Screenshot%2b(6).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\8276f4d2-1d32-4e9b-ae00-3cf83d581c75\Screenshot+(6).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/847809c1-ae01-4e7c-89cf-12ffa4386c9e/Fortnite.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\847809c1-ae01-4e7c-89cf-12ffa4386c9e\Fortnite.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/85733138-17d6-452e-90e1-7aeede644a30/Crypto%2bLogos-04.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\85733138-17d6-452e-90e1-7aeede644a30\Crypto+Logos-04.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/8e9c98ef-a3ff-424e-b83f-7995fc0d5dea/r2j12g4lj8c41.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\8e9c98ef-a3ff-424e-b83f-7995fc0d5dea\r2j12g4lj8c41.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/93442285-4272-498f-8bbc-2fef59e2e151/Screenshot%2b(2).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\93442285-4272-498f-8bbc-2fef59e2e151\Screenshot+(2).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/96592b9e-7777-425a-93d4-e72a8ddf6b38/bbac8e509a45e46ec2c2586304297014.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\96592b9e-7777-425a-93d4-e72a8ddf6b38\bbac8e509a45e46ec2c2586304297014.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/a03a8dbc-ca28-48f4-b52c-5232b818d3fd/VAL%2bLOGOS-42.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\a03a8dbc-ca28-48f4-b52c-5232b818d3fd\VAL+LOGOS-42.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/a4e6e083-dfa8-4664-915c-30a1945c0eaf/Screenshot%2b(10).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\a4e6e083-dfa8-4664-915c-30a1945c0eaf\Screenshot+(10).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/a64cc29e-c2bd-47bd-8809-384b02aa537f/r2j12g4lj8c41.jpg
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\a64cc29e-c2bd-47bd-8809-384b02aa537f\r2j12g4lj8c41.jpg
+Content Type: image/jpeg
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/a99c1a55-1d66-4631-82de-b9561d3bba86/Crypto%2bLogos-03.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\a99c1a55-1d66-4631-82de-b9561d3bba86\Crypto+Logos-03.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/ad1c4b50-4fc7-4706-a34c-17e894c6c444/dlf.pt-fortnite-skins-png-4115844.jpg
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\ad1c4b50-4fc7-4706-a34c-17e894c6c444\dlf.pt-fortnite-skins-png-4115844.jpg
+Content Type: image/jpeg
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/adf7bf94-1556-410b-9a59-be84e48d078d/Valorant%2bProduct%2bImages-44.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\adf7bf94-1556-410b-9a59-be84e48d078d\Valorant+Product+Images-44.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/b1f90bc1-dc08-411d-8bdb-4eb16732c0b8/Screenshot%2b(9).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\b1f90bc1-dc08-411d-8bdb-4eb16732c0b8\Screenshot+(9).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/c5a167a6-e2e6-4609-90c6-116c10016a66/Screenshot%2b(8).jpg
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\c5a167a6-e2e6-4609-90c6-116c10016a66\Screenshot+(8).jpg
+Content Type: image/jpeg
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/c7db8512-c6d1-40e1-b46a-c3783516295b/1072679.jpg
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\c7db8512-c6d1-40e1-b46a-c3783516295b\1072679.jpg
+Content Type: image/jpeg
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/e34f1fd2-17dc-438c-b0f6-8e9831528d44/Zest%2bDiscord%2bIcons%2bWhite%2bno%2bdrop%2bshadow-3426f7.png?format=1500w
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\e34f1fd2-17dc-438c-b0f6-8e9831528d44\Zest+Discord+Icons+White+no+drop+shadow-3426f7.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/e6b06ce1-4bb0-4d4d-b045-36a5653842cc/League%2b1-67-67.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\e6b06ce1-4bb0-4d4d-b045-36a5653842cc\League+1-67-67.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/f1322852-347c-464f-bbf2-1ef63fd1eeb4/kisspng-paypal-logo-brand-font-payment-paypal-logo-icon-paypal-icon-logo-png-and-vecto-5b7f273e
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\f1322852-347c-464f-bbf2-1ef63fd1eeb4\kisspng-paypal-logo-brand-font-payment-paypal-logo-icon-paypal-icon-logo-png-and-vecto-5b7f273e
+Content Type: 
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/f5c1424a-2962-486a-aee2-df44ccea9746/Zest%2bDiscord%2bIcons%2bWhite%2bno%2bdrop%2bshadow-34.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\f5c1424a-2962-486a-aee2-df44ccea9746\Zest+Discord+Icons+White+no+drop+shadow-34.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/images.squarespace-cdn.com/content/v1/62e0ca41dd995757b0f9e32d/fb463b12-6357-4eda-aa82-eb16993025ff/Screenshot%2b(3).png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\images.squarespace-cdn.com\content\v1\62e0ca41dd995757b0f9e32d\fb463b12-6357-4eda-aa82-eb16993025ff\Screenshot+(3).png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/index.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\index.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/leagueoflegends-script.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\leagueoflegends-script.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/payament120.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\payament120.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/payament20.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\payament20.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/payament200.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\payament200.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/payament25.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\payament25.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/payament45.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\payament45.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/payament9.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\payament9.html
+Content Type: text/html
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/static/versioned-site-css/62e0ca41dd995757b0f9e32d/114/5c5a519771c10ba3470d8101/62e0ca41dd995757b0f9e346/1293/site.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\static\versioned-site-css\62e0ca41dd995757b0f9e32d\114\5c5a519771c10ba3470d8101\62e0ca41dd995757b0f9e346\1293\site.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/static/versioned-site-css/62e0ca41dd995757b0f9e32d/114/5c5a519771c10ba3470d8101/62e0ca41dd995757b0f9e346/1297/site.css
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\static\versioned-site-css\62e0ca41dd995757b0f9e32d\114\5c5a519771c10ba3470d8101\62e0ca41dd995757b0f9e346\1297\site.css
+Content Type: text/css
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.9812a83c3e8f1ea326dca0ea01bb79f1.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.9812a83c3e8f1ea326dca0ea01bb79f1.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b4d0c88b72be854ea5dde2b7db5aa8d0.js
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.b4d0c88b72be854ea5dde2b7db5aa8d0.js
+Content Type: application/javascript
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark%402x.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/static1.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\static1.squarespace.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://bgxscript.xyz/valorant-cheats.html
+File Name: C:\Downloaded Web Sites\bgxscript.xyz\valorant-cheats.html
+Content Type: text/html
+
